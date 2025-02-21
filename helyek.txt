@@ -1,0 +1,6 @@
+helyek:uticel
+Szeged, Dóm tér:6720 Szeged, Dóm tér 16.
+Budapest, Szent István Bazilika:1051 Budapest, Szent István tér 1.
+Esztergom, Esztergomi Bazilika:2500 Esztergom, Szent István tér 1.
+Tatabánya, Turul-emlékmű:2800 Tatabánya, Újváros városrészén, a Kő-hegyen.
+Debrecen, Debreceni Református Nagytemplom:4026 Debrecen, Piac utca 4-6.
