@@ -31,7 +31,6 @@ public class Solution {
             Helyek helyek = new Helyek();           
             helyek.setPlace(lineArray[0]);
             helyek.setFinish(lineArray[1]);
-            helyekList.add(helyek);
             helyekList.add(helyek);         
             
         }
